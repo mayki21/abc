@@ -1,9 +1,9 @@
-const str1="mayank"
+const str1='mayank'
 
 
 console.log(str1)
 
-const str2="world"
+const str2='world'
 
 console.log(str1 + " " +str2)
 
